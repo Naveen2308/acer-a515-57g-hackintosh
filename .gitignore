@@ -1,0 +1,7 @@
+.DS_Store
+._*
+opencore-*.txt
+*.bak-*
+Kexts-backup/
+Kexts-disabled-backup/
+config*.plist.bak
