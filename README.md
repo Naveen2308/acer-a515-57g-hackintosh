@@ -18,7 +18,7 @@ Wi-Fi and Bluetooth.
 | External HDMI / USB-C DP | ✅ Working | via `WhateverXe.kext` |
 | Graphics acceleration | ✅ Working | QE/CI, no `framebuffer-stolenmem` needed (DVMT 64 MB) |
 | Wi-Fi | ✅ Working | Intel AX211 via `AirportItlwm` — 2.4/5 GHz only (see [Wi-Fi](#wi-fi-limits)) |
-| Bluetooth | ✅ Working | Intel AX211 (8087:0033) — see [docs/BLUETOOTH.md](docs/BLUETOOTH.md) |
+| Bluetooth | ❌ Not working | Intel AX211 (8087:0033) — see [docs/BLUETOOTH.md](docs/BLUETOOTH.md) |
 | Audio | ✅ Working | `alcid=11` (speakers, headphones, mic) |
 | Ethernet | ✅ Working | Realtek RTL8111 |
 | Keyboard / trackpad | ✅ Working | VoodooPS2 + VoodooI2C (I2C HID) |
